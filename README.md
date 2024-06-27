@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiruni Dilmika Sewwandi</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirudilmi&label=Profile%20views&color=0e75b6&style=flat" alt="hirudilmi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirudilmi" alt="hirudilmi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hirudilmi" target="blank"><img src="https://img.shields.io/twitter/follow/hirudilmi?logo=twitter&style=for-the-badge" alt="hirudilmi" /></a> </p>
 
 - 🌱 I’m currently undergraduate **at University of Ruhuna**
 
