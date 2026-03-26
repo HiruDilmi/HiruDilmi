@@ -35,6 +35,6 @@
 <hr />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirudilmi&show_icons=true&locale=en&theme=algolia" alt="hirudilmi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirudilmi&show_icons=true&locale=en&theme=algolia" alt="hirudilmi" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirudilmi&show_icons=true&locale=en&theme=algolia" alt="hirudilmi" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirudilmi&theme=algolia" alt="hirudilmi" /></p>
