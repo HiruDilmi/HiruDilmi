@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hiruni Dilmika Sewwandi</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Associate Software Engineer</h3>
 
-
-
-- 🌱 I’m currently undergraduate **at University of Ruhuna**
 
 - 📫 How to reach me **hirudilmih@gmail.com**
 
